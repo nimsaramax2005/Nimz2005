@@ -32,7 +32,7 @@
 ## ⚡ Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,dart,react,firebase,flutter,java,js,html,css,linux,python" />
+  <img src="https://skillicons.dev/icons?i=c,dart,react,firebase,flutter,java,css,linux,python" />
 </p>
 
 ---
