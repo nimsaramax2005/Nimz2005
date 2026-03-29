@@ -10,7 +10,7 @@
 ## 🎮 About Me
 
 - 🇱🇰 From Sri Lanka  
-- 🎓 Undergraduate Student  
+- 🎓 Student  
 - 💻 Passionate about coding & gaming  
 - ⚡ Building apps & websites  
 
@@ -19,7 +19,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:yourmail@gmail.com">
+  <a href="nayodhyanimsara@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/yourname">
