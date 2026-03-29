@@ -1,5 +1,5 @@
 <!-- 🔥 NAME + ANIMATION -->
-<h1 align="center">⚡ NIMZ ⚡</h1>
+<h1 align="center">⚡ NURUL NIMZ ⚡</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00FFFF&center=true&vCenter=true&width=600&lines=Gaming+Developer;Web+Developer;Mobile+App+Builder;Code+%26+Create+🚀" />
@@ -22,7 +22,7 @@
   <a href="nayodhyanimsara@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/yourname">
+  <a href="https://linkedin.com/in/nurulnimz">
     <img src="https://img.shields.io/badge/LinkedIn-00BFFF?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
