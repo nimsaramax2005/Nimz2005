@@ -37,38 +37,10 @@
 
 ---
 
-## 📊 Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nimz2005&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nimz2005&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🔥 Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Nimz2005&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nimz2005&theme=matrix&no-frame=true&row=2&column=4" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/Nimz2005/Nimz2005/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
