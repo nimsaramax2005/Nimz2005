@@ -19,7 +19,6 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  ## 🌐 Connect With Me
 
 <p align="center">
   <a href="mailto:yourgmail@gmail.com">
