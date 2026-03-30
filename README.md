@@ -1,13 +1,15 @@
-<!-- 🔥 NAME + ANIMATION -->
-<p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=glow&text1=NURUL%20NIMZ&text2=DEVELOPER%20%7C%20CREATOR&width=900&height=220&fontSize=75&theme=dark&color=00FFFF" />
-</p>
+<h1 align="center">
+  <span style="font-size:60px; color:#00FFFF; text-shadow:
+    0 0 5px #00FFFF,
+    0 0 10px #00FFFF,
+    0 0 20px #00FFFF,
+    0 0 40px #FF00FF,
+    0 0 80px #FF00FF;">Nurul Nimz</span>
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00FFFF&center=true&vCenter=true&width=600&lines=Gaming+Developer;Web+Developer;Mobile+App+Builder;Code+%26+Create+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=FF00FF&center=true&vCenter=true&width=600&lines=Gaming+Developer;Web+Developer;Mobile+App+Builder;Code+%26+Create+🚀" />
 </p>
-
----
 
 ## 🎮 About Me
 
