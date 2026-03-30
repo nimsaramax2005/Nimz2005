@@ -1,10 +1,11 @@
 <h1 align="center">
-  <span style="font-size:60px; color:#00FFFF; text-shadow:
-    0 0 5px #00FFFF,
-    0 0 10px #00FFFF,
-    0 0 20px #00FFFF,
-    0 0 40px #FF00FF,
-    0 0 80px #FF00FF;">Nurul Nimz</span>
+  <span style="font-size:70px; font-family: 'Russo One', sans-serif; 
+    background: linear-gradient(90deg, #00FFFF, #FF00FF, #FFAA00, #00FFFF); 
+    -webkit-background-clip: text; 
+    -webkit-text-fill-color: transparent; 
+    text-shadow: 0 0 10px #00FFFF, 0 0 20px #FF00FF, 0 0 30px #FFAA00;">
+    NURUL NIMZ
+  </span>
 </h1>
 
 <p align="center">
