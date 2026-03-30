@@ -19,11 +19,23 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="nayodhyanimsara@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white"/>
+  ## 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:yourgmail@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/nurulnimz">
-    <img src="https://img.shields.io/badge/LinkedIn-00BFFF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+  <a href="https://www.linkedin.com/in/yourusername">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://wa.me/947XXXXXXXX">
+    <img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+
+  <a href="https://instagram.com/yourusername">
+    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
