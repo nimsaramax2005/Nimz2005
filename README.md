@@ -36,6 +36,11 @@
   <a href="https://instagram.com/nurul.nimz">
     <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
+ 
+   <a href="https://t.me/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+  
 </p>
 
 ---
