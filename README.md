@@ -37,7 +37,7 @@
     <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
  
-   <a href="https://t.me/YOUR_USERNAME">
+   <a href="https://t.me/nurul_nimz">
   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
   
