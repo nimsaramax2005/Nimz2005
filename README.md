@@ -1,5 +1,7 @@
 <!-- 🔥 NAME + ANIMATION -->
-<h1 align="center">⚡ NURUL NIMZ ⚡</h1>
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=glow&text1=NURUL%20NIMZ&text2=DEVELOPER%20%7C%20CREATOR&width=900&height=220&fontSize=75&theme=dark&color=00FFFF" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00FFFF&center=true&vCenter=true&width=600&lines=Gaming+Developer;Web+Developer;Mobile+App+Builder;Code+%26+Create+🚀" />
@@ -55,8 +57,11 @@
 
 ## 🔥 Streak
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=2500&color=00FFFF&center=true&vCenter=true&width=700&lines=🔥+2026+CODING+STREAK+🔥;💻+NIMZ+ON+FIRE+💻;🚀+KEEP+BUILDING+🚀" />
+</h1>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Nimz2005&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&hide_border=true&border_radius=15&ring=00FFFF&fire=00FFFF" />
 </p>
 
 ---
