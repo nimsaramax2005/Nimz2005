@@ -21,19 +21,19 @@
 <p align="center">
 
 <p align="center">
-  <a href="mailto:yourgmail@gmail.com">
+  <a href="mailto:nayodhyanimsara@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/yourusername">
+  <a href="https://www.linkedin.com/in/nurulnimz">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="https://wa.me/947XXXXXXXX">
+  <a href="https://wa.me/94729718184">
     <img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 
-  <a href="https://instagram.com/yourusername">
+  <a href="https://instagram.com/nurul.nimz">
     <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
