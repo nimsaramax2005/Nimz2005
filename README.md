@@ -74,3 +74,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FFFF&height=120&section=footer"/>
 </p>
 
+![image alt](IMG_3148.gif)
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Russo+One&size=45&duration=2000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&height=100&lines=✨+THANK+YOU+FOR+WATCHING+✨;⚡+WELCOME+TO+NIMZ+WORLD+⚡;🚀+FOLLOW+FOR+MORE+🚀" />
+</h1>
