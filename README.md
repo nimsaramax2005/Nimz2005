@@ -4,7 +4,7 @@
     -webkit-background-clip: text; 
     -webkit-text-fill-color: transparent; 
     text-shadow: 0 0 10px #00FFFF, 0 0 20px #FF00FF, 0 0 30px #FFAA00;">
-    Nimsara Guruge
+    Nurul Nimz
   </span>
 </h1>
 
