@@ -16,7 +16,7 @@
 
 - 🇱🇰 From Sri Lanka  
 - 🎓 Student  
-- 💻 Passionate about coding & gaming  
+- 💻 Passionate about coding & Developing 
 - ⚡ Building apps & websites  
 
 ---
